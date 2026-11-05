@@ -16,19 +16,11 @@ form { display: grid;
     gap: 10PX;
 }
 
-<<<<<<< HEAD
 input[type="text"], input[type="number"] {
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 6px;
     background-color: #f3fde9;
-=======
-input[type="text"] {
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 6px;
->>>>>>> 54832e37cd9c03e09e2706831abac46672c03515
-}
 
 button {
     background-color: #89F336;
@@ -43,7 +35,6 @@ button {
     padding: 8px;
     border-radius: 6px;
     background-color: #f3fde9;
-<<<<<<< HEAD
 }
 
 h2 {
@@ -64,6 +55,4 @@ label {
     border-radius: 6px;
     background-color: #f3fde9;
     margin: 6px 0;
-=======
->>>>>>> 54832e37cd9c03e09e2706831abac46672c03515
 }
