@@ -1,6 +1,5 @@
 function saludar() {
     let nombre = document.getElementById("nombre").value;
-<<<<<<< HEAD
     alert(`Hola ${nombre}`);
     document.getElementById("resultado").value = `Hola, ${nombre}`;    
 }
@@ -12,8 +11,8 @@ function registrar() {
     document.getElementById("resultado11").value = `${nombre} - ${programa}`;
     document.getElementById("resultado22").innerText = `Nombre: ${nombre} | Programa: ${programa}`;
     document.getElementById("resultado33").innerHTML = `<p style="color: blue;">
-    <strong>Aprendiz:</strong> ${nombre}<br>
-    <strong>Programa:</strong> ${programa}</p>`;
+        <strong>Aprendiz:</strong> ${nombre}<br>
+        <strong>Programa:</strong> ${programa}</p>`;
     document.getElementById("resultado44").textContent = `El aprendiz ${nombre} esta inscrito en ${programa}.`;
 }
 
@@ -31,8 +30,4 @@ function calcularOperaciones() {
    
 }
 
-=======
-    alert('Hola ${nombre}');
-    document.getElementById("resultado").value = 'Hola, ${nombre}';    
-}
->>>>>>> 54832e37cd9c03e09e2706831abac46672c03515
+
